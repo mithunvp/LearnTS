@@ -26,5 +26,10 @@ namespace LearnTS.Controllers
 
             return View();
         }
+
+        public ActionResult LearnTS()
+        {
+            return View();
+        }
     }
 }
